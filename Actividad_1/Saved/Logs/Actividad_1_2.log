@@ -2316,3 +2316,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.14-19.23.30:447][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.04.14-19.23.30:459][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2023.04.14-19.23.30:514][635]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.04.14-19.27.01:260][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map" FILE="../../../../../../Users/n-o-e/OneDrive/Escritorio/Unreal/Actividad_1/Actividad_1/Content/Levels/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-19.27.01:280][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.14-19.27.01:301][282]LogSavePackage: Moving '../../../../../../Users/n-o-e/OneDrive/Escritorio/Unreal/Actividad_1/Actividad_1/Saved/Map233549914E6B94CDF9DF81AAA31F8810.tmp' to '../../../../../../Users/n-o-e/OneDrive/Escritorio/Unreal/Actividad_1/Actividad_1/Content/Levels/Map.umap'
+[2023.04.14-19.27.01:318][282]AssetCheck: New page: Asset Save: Map
+[2023.04.14-19.27.01:318][282]LogContentValidation: Display: Validating World /Game/Levels/Map.Map
+[2023.04.14-19.27.02:093][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Map" FILE="../../../../../../Users/n-o-e/OneDrive/Escritorio/Unreal/Actividad_1/Actividad_1/Content/Levels/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-19.27.02:112][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.04.14-19.27.02:131][328]LogSavePackage: Moving '../../../../../../Users/n-o-e/OneDrive/Escritorio/Unreal/Actividad_1/Actividad_1/Saved/MapC7C9FA1144E27B208FD2DA86AE487998.tmp' to '../../../../../../Users/n-o-e/OneDrive/Escritorio/Unreal/Actividad_1/Actividad_1/Content/Levels/Map.umap'
+[2023.04.14-19.27.02:147][328]AssetCheck: New page: Asset Save: Map
+[2023.04.14-19.27.02:147][328]LogContentValidation: Display: Validating World /Game/Levels/Map.Map
